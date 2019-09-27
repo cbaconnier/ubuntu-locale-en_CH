@@ -17,6 +17,6 @@ _tested on Ubuntu 18.10_
 	sudo locale-gen
 	
 	
- - Change the regional settings with the new locale in `Language Support` > `Regional Formats` > `Switzerland (English)`
+ - Change the regional settings with the new locale in `Language Support` > `Regional Formats` and search for `Switzerland (English)`
 
 Next time you log in, the locale should be in use.
